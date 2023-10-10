@@ -54,7 +54,7 @@ nav .center {
 }
 
 nav .center img {
-    margin: 0 100px 0 100px;
+    margin: 0 45px 0 45px;
 }
 
 nav .center img:hover {
@@ -234,7 +234,7 @@ nav .right .rightimgback{
 }
 .main .center .top_box .story_card .story_profile{
     position: relative;
-    bottom: 240px;
+    bottom: 215px;
     margin-left: 10px;
 }
 .main .center .top_box .story_card .story_profile img{
@@ -253,7 +253,7 @@ nav .right .rightimgback{
 .main .center .my_post{
     width: 100%;
     background:#fff;
-    height: 13vh;
+    height: 15vh;
     border-radius: 7px;
     box-shadow: 0px 1px 8px rgba(0,0,0,0.2);
     padding: 10px 15px;
@@ -379,7 +379,7 @@ nav .right .rightimgback{
    cursor: pointer;
 }
 .main .center .friends_post .img_and_name .menu{
-    margin-left: 700px;
+    margin-left: 510px;
 }
 .main .center .friends_post .img_and_name .friends_name .friends_name:hover{
     text-decoration: underline;
